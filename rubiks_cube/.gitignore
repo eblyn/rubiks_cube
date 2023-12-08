@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.code-workspace
+*.pyc
+
+
+## Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+## Unit test / coverage reports
+.pytest_cache/
+
+## pyenv
+.python-version
+
+## Python Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+## mypy
+.mypy_cache/
+
+
+# Local dev
+.bash_history
+
+# Mac OS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea
